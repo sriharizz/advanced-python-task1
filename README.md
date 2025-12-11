@@ -1,4 +1,3 @@
-# advanced-python-task1
 # Advanced Python – Programming Task 1
 
 This repository contains three Python solutions for the Advanced Programming Task assigned.
